@@ -1,2 +1,2 @@
-import devConfig from './_config/dev.config.json'assert{type:"json"};
-export default devConfig
+import devEnv from './_config/env/development.config.js'
+export default devEnv
